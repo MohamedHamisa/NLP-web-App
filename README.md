@@ -1,0 +1,1 @@
+This NLP web app is a one-place solution for 5 key NLP tasks: advanced text summarization, named entity recognizer, sentiment analysis, question answering, and text completion using the required python liabraries 
